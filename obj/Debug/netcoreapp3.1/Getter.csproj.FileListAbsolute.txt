@@ -1,0 +1,16 @@
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\Getter.exe
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\Getter.deps.json
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\Getter.runtimeconfig.json
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\Getter.runtimeconfig.dev.json
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\Getter.dll
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\Getter.pdb
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\GitHub\Getter\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.csprojAssemblyReference.cache
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.AssemblyInfoInputs.cache
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.AssemblyInfo.cs
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.csproj.CoreCompileInputs.cache
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.csproj.CopyComplete
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.dll
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.pdb
+C:\GitHub\Getter\obj\Debug\netcoreapp3.1\Getter.genruntimeconfig.cache

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub\\Getter\\Getter.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub\\Getter\\Getter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\Getter\\Getter.csproj",
+        "projectName": "Getter",
+        "projectPath": "C:\\GitHub\\Getter\\Getter.csproj",
+        "packagesPath": "C:\\Users\\vaghe\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\Getter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vaghe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "csvhelper": {
+              "target": "Package",
+              "version": "[27.1.1, )"
+            },
+            "htmlagilitypack": {
+              "target": "Package",
+              "version": "[1.11.36, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
