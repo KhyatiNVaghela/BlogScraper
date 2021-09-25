@@ -187,11 +187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Getter\\Getter.csproj",
+      "projectUniqueName": "C:\\GitHub\\BlogScraper\\Getter.csproj",
       "projectName": "Getter",
-      "projectPath": "C:\\GitHub\\Getter\\Getter.csproj",
+      "projectPath": "C:\\GitHub\\BlogScraper\\Getter.csproj",
       "packagesPath": "C:\\Users\\vaghe\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Getter\\obj\\",
+      "outputPath": "C:\\GitHub\\BlogScraper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vaghe\\AppData\\Roaming\\NuGet\\NuGet.Config"

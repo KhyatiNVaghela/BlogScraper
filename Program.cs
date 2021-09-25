@@ -30,7 +30,7 @@ namespace Getter
             {
                 titles.Add(new Row { Title = item.InnerText });
             }
-            using (var writer = new StreamWriter("C:/GitHub/Getter/example.csv"))
+            using (var writer = new StreamWriter("C:/GitHub/BlogScraper/example.csv"))
             using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
             {
                 csv.WriteRecords(titles);
