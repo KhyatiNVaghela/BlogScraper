@@ -11,12 +11,19 @@ namespace Getter
 {
 
 
+   /// <summary>
+   /// This is row class
+   /// </summary>
     public class Row
     {
         public string Title { get; set; }
     }
     class Program
     {
+        /// <summary>
+        /// This is the main method
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
